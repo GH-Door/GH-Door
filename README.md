@@ -7,7 +7,6 @@ I enjoy learning and implementing AI-driven solutions to solve real-world proble
 
 ## 🛠️ **Tech Stack**
 <div align="center">
-  <!-- 첫 번째 줄 -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
@@ -17,7 +16,6 @@ I enjoy learning and implementing AI-driven solutions to solve real-world proble
 </div>
 
 <div align="center">
-  <!-- 두 번째 줄 -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Matplotlib-336699?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
