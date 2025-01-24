@@ -51,4 +51,4 @@ I enjoy learning and implementing AI-driven solutions to solve real-world proble
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH-Door&layout=compact&theme=graywhite&title_color=1E40AF&text_color=1E293B&bg_color=FFFFFF" alt="Top Languages" />
     </td>
   </tr>
-</table>
+</table
