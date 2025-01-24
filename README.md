@@ -24,7 +24,6 @@ I enjoy learning and implementing AI-driven solutions to solve real-world proble
   <img src="https://img.shields.io/badge/Seaborn-1C88C7?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
 </div>
 
----
 
 ## ⚙️ **Tools**
 <div align="center">
@@ -36,7 +35,6 @@ I enjoy learning and implementing AI-driven solutions to solve real-world proble
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
 </div>
 
----
 
 ## 📊 **GitHub Stats**
 
