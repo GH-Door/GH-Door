@@ -1,7 +1,6 @@
 <div align="center">
 
-  ## GukHyun Moon's GITHUB 
-
+  # GukHyun Moon's GITHUB 
   [![GitHub](https://img.shields.io/badge/GitHub-152%20%2F%20918-181717?style=for-the-badge&logo=github)](https://github.com/GH-Door)
   ![Visitor Badge](https://komarev.com/ghpvc/?username=GH-Door&label=Visitors&color=blue&style=for-the-badge)
 
