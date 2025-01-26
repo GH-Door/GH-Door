@@ -1,8 +1,11 @@
-<div align="center" style="position: relative; width: 100%; max-width: 800px;">
-  <img src="https://example.com/your-image.jpg" alt="Background" style="width: 100%; border-radius: 10px;">
-  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 3em; font-weight: bold; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);">
-    Guk Hyun Moon
-  </h1>
+<div align="center">
+
+  ## GukHyun Moon's GITHUB 
+
+  [![GitHub](https://img.shields.io/badge/GitHub-152%20%2F%20918-181717?style=for-the-badge&logo=github)](https://github.com/GH-Door)
+  ![Visitor Badge](https://komarev.com/ghpvc/?username=GH-Door&label=Visitors&color=blue&style=for-the-badge)
+
+  Data Scientist | AI & Machine Learning  
 </div>
 
 ## 🛠️ **Tech Stack**
