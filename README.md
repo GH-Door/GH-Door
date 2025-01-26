@@ -1,9 +1,9 @@
-# 👋 Hi there!
-
-I'm **GukHyun Moon**, a **Data Scientist** focusing on AI, Machine Learning, and Data Analysis.  
-I enjoy learning and implementing AI-driven solutions to solve real-world problems. 🚀
-
----
+<div align="center" style="position: relative; width: 100%; max-width: 800px;">
+  <img src="https://example.com/your-image.jpg" alt="Background" style="width: 100%; border-radius: 10px;">
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 3em; font-weight: bold; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);">
+    Guk Hyun Moon
+  </h1>
+</div>
 
 ## 🛠️ **Tech Stack**
 <div align="center">
@@ -40,11 +40,11 @@ I enjoy learning and implementing AI-driven solutions to solve real-world proble
   <tr>
     <!-- GitHub Stats -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GH-Door&show_icons=true&theme=graywhite&title_color=1E40AF&text_color=1E293B&icon_color=0F172A&bg_color=FFFFFF" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=GH-Door&show_icons=true&theme=default&title_color=000000&text_color=000000&icon_color=2563EB&ring_color=2563EB&bg_color=FFFFFF" alt="GitHub Stats" />
     </td>
     <!-- Most Used Languages -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH-Door&layout=compact&theme=graywhite&title_color=1E40AF&text_color=1E293B&bg_color=FFFFFF" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH-Door&layout=compact&theme=default&title_color=000000&text_color=000000&icon_color=2563EB&bg_color=FFFFFF" alt="Top Languages" />
     </td>
   </tr>
 </table>
