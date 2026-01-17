@@ -1,7 +1,7 @@
 <div align="center">
 
-  # GukHyun Moon's GITHUB 
-  ![Visitor Badge](https://komarev.com/ghpvc/?username=GH-Door&label=Visitors&color=blue&style=for-the-badge)
+  # GukHyun Moon's GITHUB
+![Profile views](https://komarev.com/ghpvc/?username=GH-Door&label=Profile%20views&color=0e76a8&style=flat)
   
   Data Scientist | AI & Machine Learning  
 </div>
