@@ -48,8 +48,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GH-Door&show_icons=true&theme=default&title_color=000000&text_color=000000&icon_color=2563EB&ring_color=2563EB&bg_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH-Door&layout=compact&theme=default&title_color=000000&text_color=000000&icon_color=2563EB&bg_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GH-Door&show_icons=true&theme=default&title_color=000000&text_color=000000&icon_color=2563EB&ring_color=2563EB&bg_color=FFFFFF" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH-Door&layout=compact&theme=default&title_color=000000&text_color=000000&icon_color=2563EB&bg_color=FFFFFF" height="165" alt="Top Languages" />
 </div>
 
 ## 🤝 Connect with Me
