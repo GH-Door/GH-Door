@@ -1,5 +1,5 @@
 <!-- 배너 이미지 (커스텀 이미지로 교체 가능) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=250&section=header&text=Gukhyun%20Moon&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer&descSize=20&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=190&section=header&text=Gukhyun%20Moon&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer&descSize=18&descAlignY=60" width="100%" />
 
 <h3>Hi 👋 I'm GukHyun</h3>
 
