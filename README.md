@@ -11,32 +11,29 @@
 🌱 &nbsp;I'm currently diving deeper into Deep Learning and MLOps.\
 ✍️ &nbsp;In my free time, I read data-related articles and work on side projects.\
 💬 &nbsp;Feel free to reach out for collaboration or discussion on data & AI projects.\
-🏋️ &nbsp;I enjoy weight training and Jiu-Jitsu in my free time.\
-✉️ &nbsp;You can reach me at: moonstalker9010@gmail.com
+🏋️ &nbsp;I enjoy weight training and Jiu-Jitsu in my free time.
 
 ## 💼 Experience
 
 - **AI Engineer** (Intern) *(2025.09.01 - 2025.10.31)*
+- **Upstage AI Lab 13th** (Bootcamp) *(2025.03.24 - 2025.10.31)*
 - **Data Analyst** (Contract) *(2024.09.24 - 2024.12.22)*
-
-## 🎓 Education
-
-- [**Upstage AI Lab 13th**](https://github.com/AIBootcamp13) (Bootcamp) *(2025.03.24 - 2025.10.31)*
-- **Data Science** (Bootcamp) *(2024.02.01 - 2024.07.31)*
+- **Data Science 24th** (Bootcamp) *(2024.02.01 - 2024.07.31)*
 
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn)\
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
-![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat)&nbsp;
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)\
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;\
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![Weights & Biases](https://img.shields.io/badge/-Weights%20%26%20Biases-05122A?style=flat&logo=weightsandbiases)&nbsp;![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Weights%20%26%20Biases](https://img.shields.io/badge/-Weights%20%26%20Biases-05122A?style=flat&logo=weightsandbiases)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoftexcel)
 
