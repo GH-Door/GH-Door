@@ -9,9 +9,7 @@
 
 💡 &nbsp;I enjoy solving business problems using data analysis and machine learning.\
 🌱 &nbsp;I'm currently diving deeper into Deep Learning and MLOps.\
-✍️ &nbsp;In my free time, I read data-related articles and work on side projects.\
-💬 &nbsp;Feel free to reach out for collaboration or discussion on data & AI projects.\
-🏋️ &nbsp;I enjoy weight training and Jiu-Jitsu in my free time.
+✍️ &nbsp;In my free time, I study data through side projects and train in weightlifting and Jiu-Jitsu.
 
 ## 💼 Experience
 
