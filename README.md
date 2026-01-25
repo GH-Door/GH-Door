@@ -11,6 +11,8 @@
 🌱 &nbsp;I'm currently diving deeper into Deep Learning and MLOps.\
 ✍️ &nbsp;In my free time, I study data through side projects and train in weightlifting and Jiu-Jitsu.
 
+<a href="mailto:moonstalker9010@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;<a href="https://gh-door.github.io/"><img src="https://img.shields.io/badge/-Blog-000000?style=flat&logo=github&logoColor=white"/></a>
+
 ## 💼 Experience
 
 - **AI Engineer** (Intern) *(2025.09.01 - 2025.10.31)*
@@ -52,8 +54,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH-Door&layout=compact&theme=default&title_color=000000&text_color=000000&icon_color=2563EB&bg_color=FFFFFF" height="165" alt="Top Languages" />
 </div>
 
-## 🤝 Connect with Me
-
-<a href="mailto:moonstalker9010@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/%EA%B5%AD%ED%98%84-%EB%AC%B8-558700336/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://gh-door.github.io/"><img src="https://img.shields.io/badge/-Blog-000000?style=flat&logo=github&logoColor=white"/></a>&nbsp;
