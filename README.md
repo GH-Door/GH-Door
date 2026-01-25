@@ -11,8 +11,6 @@
 🌱 &nbsp;I'm currently diving deeper into Deep Learning and MLOps.\
 ✍️ &nbsp;In my free time, I study data through side projects and train in weightlifting and Jiu-Jitsu.
 
-<a href="mailto:moonstalker9010@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;<a href="https://gh-door.github.io/"><img src="https://img.shields.io/badge/-Blog-000000?style=flat&logo=github&logoColor=white"/></a>
-
 ## 💼 Experience
 
 - **AI Engineer** (Intern) *(2025.09.01 - 2025.10.31)*
