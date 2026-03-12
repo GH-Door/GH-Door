@@ -13,10 +13,11 @@
 
 ## 💼 Experience
 
-- **AI Engineer** (Intern) *(2025.09.01 - 2025.10.31)*
-- **Upstage AI Lab 13th** (Bootcamp) *(2025.03.24 - 2025.10.31)*
-- **Data Analyst** (Contract) *(2024.09.24 - 2024.12.22)*
-- **Data Science 24th** (Bootcamp) *(2024.02.01 - 2024.07.31)*
+- [**Likelion**](https://likelion.career.greetinghr.com/ko/home) - **AI Engineer** (Intern) *(2026.03 ~ present)*
+- [**Onoma.AI**](https://www.onomaai.com/) - **AI Engineer** (Intern) *(2025.09 ~ 2025.10)*
+- [**Kernel Academy**](https://kernel.fastcampus.co.kr/) - **Upstage AI Lab 13th** (Bootcamp) *(2025.03 ~ 2025.10)*
+- [**LG U+**](https://www.lguplus.com/about/ko) - **Data Analyst** (Contract) *(2024.09 ~ 2024.12)*
+- [**Zerobase**](https://zero-base.co.kr/?utm_source=naver&utm_medium=brand&utm_campaign=251121_slogan_link&utm_content=%EC%A0%9C%EB%A1%9C%EB%B2%A0%EC%9D%B4%EC%8A%A4&utm_term=%EC%A0%9C%EB%A1%9C%EB%B2%A0%EC%9D%B4%EC%8A%A4&NaPm=ct%3Dmie6cw43%7Cci%3DER22cd5ea3%2Dc9c5%2D11f0%2Da507%2D5e56fd4436d7%7Ctr%3Dbrnd%7Chk%3D67678d9875173e5bda070b7754f8483f7ca502e7%7Cnacn%3DznOHB0gttw23) - **Data Science 24th** (Bootcamp) *(2024.02 ~ 2024.07)*
 
 ## 🛠 Tech Stack
 
@@ -35,6 +36,8 @@
 
 ## 🚀 Projects
 
+- [**Smart Factory Anomaly Reporting System**](https://github.com/GH-Door/multiModal_anomaly_report) | Multimodal anomaly detection with LLM & RAG based report generation
+- [**DACON x BDA completion prediction**](https://github.com/GH-Door/DACON_BDA) | **Top 4%** (29/733)
 - [**Road Lane Segmentation**](https://github.com/GH-Door/Road_Lane_segmentation) | Autonomous driving lane segmentation
 - [**PCB Object Detection**](https://github.com/GH-Door/PCB_object_detection) | YOLO-based PCB defect detection
 - [**Legal LangChain**](https://github.com/GH-Door/legal_langchain) | RAG-based legal QA system
