@@ -13,7 +13,7 @@
 
 ## 💼 Experience
 
-- [**Likelion**](https://likelion.career.greetinghr.com/ko/home) - **AI Engineer** (Intern) *(2026.03 ~ present)*
+- [**Likelion**](https://likelion.career.greetinghr.com/ko/home) - **AI Engineer** (Intern) *(2026.03 ~ 2026.04)*
 - [**Onoma.AI**](https://www.onomaai.com/) - **AI Engineer** (Intern) *(2025.09 ~ 2025.10)*
 - [**Kernel Academy**](https://kernel.fastcampus.co.kr/) - **Upstage AI Lab 13th** (Bootcamp) *(2025.03 ~ 2025.10)*
 - [**LG U+**](https://www.lguplus.com/about/ko) - **Data Analyst** (Contract) *(2024.09 ~ 2024.12)*
@@ -36,6 +36,7 @@
 
 ## 🚀 Projects
 
+- [**Drowsiness Detection**](https://github.com/GH-Door/drowsiness_detection) | Real-time drowsiness detection for online classes *(Likelion Internship)*
 - [**Smart Factory Anomaly Reporting System**](https://github.com/GH-Door/multiModal_anomaly_report) | Multimodal anomaly detection with LLM & RAG based report generation
 - [**DACON x BDA completion prediction**](https://github.com/GH-Door/DACON_BDA) | **Top 4%** (29/733)
 - [**Road Lane Segmentation**](https://github.com/GH-Door/Road_Lane_segmentation) | Autonomous driving lane segmentation
