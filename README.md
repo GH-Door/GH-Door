@@ -5,12 +5,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=GH-Door&label=Profile%20views&color=0e76a8&style=flat)
 
-## 👨🏻‍💻 About Me
-
-💡 &nbsp;I enjoy solving business problems using data analysis and machine learning.\
-🌱 &nbsp;I'm currently diving deeper into Deep Learning and MLOps.\
-✍️ &nbsp;In my free time, I study data through side projects and train in weightlifting and Jiu-Jitsu.
-
 ## 💼 Experience
 
 - [**Likelion**](https://likelion.career.greetinghr.com/ko/home) - **AI Engineer** (Intern) *(2026.03 ~ 2026.04)*
@@ -36,14 +30,11 @@
 
 ## 🚀 Projects
 
-- [**Drowsiness Detection**](https://github.com/GH-Door/drowsiness_detection) | Real-time drowsiness detection for online classes *(Likelion Internship)*
+- [**BGG User Analytics**](https://github.com/GH-Door/bgg-user-analytics) | Funnel & cohort analysis of board game ownership-to-play conversion gap
+- [**Drowsiness Detection**](https://github.com/GH-Door/drowsiness_detection) | Real-time drowsiness & absence detection for online classes *(Likelion Internship)*
 - [**Smart Factory Anomaly Reporting System**](https://github.com/GH-Door/multiModal_anomaly_report) | Multimodal anomaly detection with LLM & RAG based report generation
 - [**DACON x BDA completion prediction**](https://github.com/GH-Door/DACON_BDA) | **Top 4%** (29/733)
-- [**Road Lane Segmentation**](https://github.com/GH-Door/Road_Lane_segmentation) | Autonomous driving lane segmentation
-- [**PCB Object Detection**](https://github.com/GH-Door/PCB_object_detection) | YOLO-based PCB defect detection
-- [**Legal LangChain**](https://github.com/GH-Door/legal_langchain) | RAG-based legal QA system
-- [**NLP Summarization**](https://github.com/GH-Door/nlp_summarization) | Korean dialogue summarization with KoBART
-- [**PUBG Anomaly Detection**](https://github.com/GH-Door/pubg_anomaly_detection) | ML-based game cheater detection
+- [**PUBG Anomaly Detection**](https://github.com/GH-Door/pubg_anomaly_detection) | ML-based game user anomaly detection
 
 ## 📜 Certification
 
